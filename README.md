@@ -12,8 +12,8 @@ Submitted to the Special Issue "Text Mining in Psychology" of the Zeitschrift f√
 # How to work with this code:
 Locally: 
 1. Clone this repository,
-2. start a new environment, either using virtualenv or anaconda.
-3. Install the requierements.
+2. Start a new environment, either using virtualenv or anaconda.
+3. Install the requirements.
 4. Report any issues in this git :)
 
 Online:
