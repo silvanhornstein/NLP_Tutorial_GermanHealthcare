@@ -14,7 +14,8 @@ Locally:
 1. Clone this repository,
 2. Start a new environment, either using virtualenv or anaconda.
 3. Install the requirements.
-4. Report any issues in this git :)
+4. Download the data from the corresponding OSF repository: https://osf.io/xdpb5/
+5. Report any issues in this git :)
 
 Online:
 Use this Google Colab Instance: https://colab.research.google.com/drive/1a-fQYpxhQ1De8LgTL0JrDa3SjO7YuouR?usp=sharing
