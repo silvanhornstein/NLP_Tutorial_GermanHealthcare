@@ -1,13 +1,10 @@
 # Tutorial: Text Classification of German Mental Healthcare Data: A Hands-on Tutorial on Natural Language Processing Techniques
-This Repository includes the code for the tutorial paper, submitted to the special Issue "Text Mining in Psychology" of the Zeitschrift für Psychologie.
+This Repository includes the code for the tutorial paper
 Authors are Silvan Hornstein, Kirsten Zantvoort, Drin Ferizaj, Ulrike Lueken, Burkhardt Funk & Kevin Hilbert.
 Contact: silvan.hornstein@hu-berlin.de
-Link of Paper: To be added.
 
 # Abstract of the Paper:
 Natural Language Processing (NLP) is a promising approach for the extraction of meaningful information from text data in clinical psychology. While ample resources cover the implementation of such techniques, the majority of them focus on English. In contrast, this tutorial paper provides a hands-on Python guide for applying NLP on an exemplary German dataset. Specifically, around 14.000 comments from two reddit subthreads on depression and ADHD are used. We guide the reader through various text classification techniques, ultimately predicting what subreddit a comment was taken from. Following the introduction of preprocessing, bag-of-words and word embeddings will be described as feature extraction methods. In the next step, we explore transformer-based models like BERT and recent GPT approaches. Additionally, a framework for selecting among these methods for a specific problem is presented. We end by highlighting the generalizability of the presented approach for other non-English languages. 
-
-Submitted to the Special Issue "Text Mining in Psychology" of the Zeitschrift für Psychologie.
 
 # How to work with this code:
 Locally: 
